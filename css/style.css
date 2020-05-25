@@ -1,0 +1,26 @@
+body {
+    
+    background: grey;
+    margin-left: 20px;  
+    margin-right: 300px;
+}
+
+header {
+    margin-top: 250px;
+}
+h1 { 
+    font-size: 72px;
+    color: seagreen;
+    font-family: serif;
+}
+
+p {
+    font-size: 18px;
+    font-weight: bold;
+    font-size-adjust: initial;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    border-radius: 10px 10px 10px 10px;
+}
